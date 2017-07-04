@@ -1,0 +1,24 @@
+Telegram-cli version 1.4.1, Copyright (C) 2013-2015 Vitaly Valtman
+Telegram-cli comes with ABSOLUTELY NO WARRANTY; for details type `show_license'.
+This is free software, and you are welcome to redistribute it
+under certain conditions; type `show_license' for details.
+Telegram-cli uses libtgl version 2.1.0
+Telegram-cli includes software developed by the OpenSSL Project
+for use in the OpenSSL Toolkit. (http://www.openssl.org/)
+I: config dir=[/home/donald/.telegram-cli]
+[35;1m [04:05] [0m [35;1mRelays[0m [0;31m[1;31mDonald Van Steenwyk[0;31m[0m[32;1m »»» /logs[0m
+[35;1m [04:05] [0m [35;1mRelays[0m [0;31mHK-47[0m[34;1m >>> QuickStartify's last 10 log entries:
+
+[05:40:22] (POKESTOP) Name: Starbucks XP: 100, Gems: 0, Items: 5 x ItemPokeBall, 2 x ItemGreatBall, Lat: 30.617221, Long: -96.339034, Alt: 49.1475054827274
+[05:40:22] (INFO) (POKESTOP LIMIT) 144/1382
+[05:40:23] (INFO) Traveling to Pokestop: Jean W. Kasper Memorial Bench (1407 m) (344 seconds) (route Mapzen Walk)
+[05:50:50] (POKESTOP) Name: L.F. Peterson XP: 50, Gems: 0, Items: 1 x ItemPotion, 2 x ItemRazzBerry, Lat: 30.615726, Long: -96.338532, Alt: 25.2027753275832
+[05:50:50] (INFO) (POKESTOP LIMIT) 141/1371
+[05:51:23] (POKESTOP) Name: Library Annex XP: 50, Gems: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry, Lat: 30.616667, Long: -96.338505, Alt: 7.74237475718482
+[05:51:23] (INFO) (POKESTOP LIMIT) 142/1408
+[05:51:35] (POKESTOP) Name: Jean W. Kasper Memorial Bench XP: 50, Gems: 0, Items: 1 x ItemPotion, 2 x ItemPokeBall, Lat: 30.616587, Long: -96.338749, Alt: 47.435005927661
+[05:51:35] (INFO) (POKESTOP LIMIT) 143/1419
+[05:51:36] (INFO) Traveling to Pokestop: Sterling C. Evans Library (1506 m) (368 seconds) (route Mapzen Walk)[0m
+[35;1m [04:06] [0m [35;1mRelays[0m [0;31m[1;31mDonald Van Steenwyk[0;31m[0m[32;1m >>> /logs[0m
+halt
+All done. Exit

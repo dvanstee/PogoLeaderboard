@@ -1,0 +1,12 @@
+Telegram-cli version 1.4.1, Copyright (C) 2013-2015 Vitaly Valtman
+Telegram-cli comes with ABSOLUTELY NO WARRANTY; for details type `show_license'.
+This is free software, and you are welcome to redistribute it
+under certain conditions; type `show_license' for details.
+Telegram-cli uses libtgl version 2.1.0
+Telegram-cli includes software developed by the OpenSSL Project
+for use in the OpenSSL Toolkit. (http://www.openssl.org/)
+I: config dir=[/home/donald/.telegram-cli]
+[35;1m [04:04] [0m [35;1mRelays[0m [0;31m[1;31mDonald Van Steenwyk[0;31m[0m[32;1m »»» butts[0m
+[35;1m [04:05] [0m [35;1mRelays[0m [0;31m[1;31mDonald Van Steenwyk[0;31m[0m[32;1m >>> /logs[0m
+halt
+All done. Exit
